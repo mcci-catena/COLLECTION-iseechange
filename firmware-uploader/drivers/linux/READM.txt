@@ -1,0 +1,6 @@
+Steps to install the driver for Linux:
+
+1. Open the Terminal, copy "mccicatenastm32.rules" to "etc/udev/rules.d"
+
+2. Use the below command:
+	sudo cp <Extracted-folder-location>/Weradiate-Catena-4612-Compost-sensor-uploader/drivers/linux/mccicatenastm32.rules /etc/udev/rules.d/

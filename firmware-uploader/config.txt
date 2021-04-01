@@ -1,0 +1,20 @@
+# Config.txt provides the details on Firmware, Board name, Peripheral options, Network options and system version
+
+## Firmware information
+	Source - https://github.com/ezraundag/weradiate-thermosense/blob/master/WeRadiate-ThermoSense.ino
+	Version - v0.1.0
+
+## Application upload options
+	Board - Catena 4612
+	System clock - 16 MHz
+	Serial interface - USB serial
+	Region - North America
+	Network - The Things Network
+	
+## System Version
+	Board: Catena 4612
+	Platform-Version: 0.19.0
+	Arduino-LoRaWAN-Version: 0.8.0
+	Arduino-LMIC-Version: 3.2.0
+	MCCIADK-Version: 0.2.2
+	MCCI-Arduino-BSP-Version: 2.7.0

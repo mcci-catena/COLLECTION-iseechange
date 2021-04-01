@@ -1,0 +1,3 @@
+#!/bin/bash
+
+"$(dirname $0)/linux/stm32l0-upload" 0x040e 0x00D1 catena4618m201_simple.ino.dfu
